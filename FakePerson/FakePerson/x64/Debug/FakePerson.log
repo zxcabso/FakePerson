@@ -1,0 +1,4 @@
+﻿  FakePerson.cpp
+C:\Users\AMD Pro\source\repos\FakePerson\FakePerson.cpp(52,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\AMD Pro\source\repos\FakePerson\FakePerson.cpp(110,15): warning C4129: 'P': unrecognized character escape sequence
+  FakePerson.vcxproj -> C:\Users\AMD Pro\source\repos\FakePerson\x64\Debug\FakePerson.exe
